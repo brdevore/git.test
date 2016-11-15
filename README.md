@@ -1,1 +1,1 @@
-This is Brady's first git project.
+This is Brady's second git project.
